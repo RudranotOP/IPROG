@@ -4,6 +4,7 @@
 char team1[50],team2[50],t_won[50],t_choose[50];
 void member_input()
 {
+    printf("Helo");
 
 }
 void input()
